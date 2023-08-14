@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(21, 19, 19);
+   
+}
+
+.sections {
+    display: flex;
+    gap: 30px;
+   
+} 
+
+.sections a {
+    color: rgb(9, 8, 6);
+    font-family: 'Silkscreen', cursive;
+    color: aliceblue;
+}
+
